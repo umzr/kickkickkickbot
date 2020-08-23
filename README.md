@@ -1,2 +1,2 @@
 # kickkickkickbot
-telegram: kickkickkickbot
+telegram: @kickkickkickbot
